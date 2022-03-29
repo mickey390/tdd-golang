@@ -5,4 +5,4 @@
 
 ## test result
 
-- [![Test](https://github.com/mickey390/tdd-golang/blob/master/.github/workflows/test.yml/badge.svg)](https://github.com/mickey390/tdd-golang/blob/master/.github/workflows/test.yml)
+- ![test](https://github.com/mickey390/tdd-golang/actions/workflows/test.yml/badge.svg)
